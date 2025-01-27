@@ -1,6 +1,7 @@
 # Contenido de este repositorio
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
+Edito contenido desde VS Code on line de git.
 
 Los proyectos son los siguientes:
 
